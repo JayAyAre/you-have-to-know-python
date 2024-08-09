@@ -1,4 +1,5 @@
 '''
+https://youtu.be/1CDE1pdVDGw?si=wEXQcLR6f8wXr-oO
 
 Las cadenas de caracteres mejor conocidas como strings, es una serie de caracteres compuestas
 por letras, numeros, signos y simbolos, que dentro de sus funciones destaca la interaccion

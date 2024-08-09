@@ -1,4 +1,5 @@
 '''
+https://youtu.be/w8VZxo1TlnU?si=Q7l4qUXPZs7ab-TQ
 
 En programación, una variable es un espacio de memoria
 donde se guardan y recuperan los datos que se utiliza en un programa

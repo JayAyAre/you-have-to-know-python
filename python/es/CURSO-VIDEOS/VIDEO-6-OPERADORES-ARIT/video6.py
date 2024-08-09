@@ -1,4 +1,5 @@
 '''
+https://youtu.be/6sOEpHItJHs?si=9uwCxOL6X5dqG50S
 
 Los operadores aritmeticos son aquellos que manipulan datos numericos.
 Estos son los mas sencillos de usar, y son usados para multiplicaciones,
