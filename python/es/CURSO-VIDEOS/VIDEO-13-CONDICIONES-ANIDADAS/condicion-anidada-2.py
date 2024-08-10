@@ -22,16 +22,20 @@ if opcion == 1:
     else:
         print("El programa unicamente admite numeros entre 1 y 5")
 elif opcion == 2:
+
     palabra = input("Ingresa una palabra (Uno, Dos, Tres, Cuatro, Cinco)\n")
-    if palabra.lower() == "uno":
+
+    palabra = palabra.lower() # convertimos a minusculas
+
+    if palabra == "uno":
         print("El numero en palabra es: 1")
-    elif palabra.lower() == "dos":
+    elif palabra == "dos":
         print("El numero en palabra es: 2")
-    elif palabra.lower() == "tres":
+    elif palabra == "tres":
         print("El numero en palabra es: 3")
-    elif palabra.lower() == "cuatro":
+    elif palabra == "cuatro":
         print("El numero en palabra es: 4")
-    elif palabra.lower() == "cinco":
+    elif palabra == "cinco":
         print("El numero en palabra es: 5")
     else:
         print("El programa unicamente admite numeros entre 1 y 5")
