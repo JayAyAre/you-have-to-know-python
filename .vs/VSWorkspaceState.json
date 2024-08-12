@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\c#",
-    "\\c#\\CURSO-CODE-ACADEMY",
-    "\\c#\\CURSO-CODE-ACADEMY\\LESSON-2-VARIABLES",
-    "\\c#\\CURSO-CODE-ACADEMY\\LESSON-2-VARIABLES\\ConsoleApp2"
+    "\\c#\\es",
+    "\\c#\\es\\CURSO-CODE-ACADEMY",
+    "\\c#\\es\\CURSO-CODE-ACADEMY\\LESSION-1",
+    "\\c#\\es\\CURSO-CODE-ACADEMY\\LESSION-1\\Introduccion"
   ],
-  "SelectedNode": "\\c#\\CURSO-CODE-ACADEMY\\LESSON-2-VARIABLES",
+  "SelectedNode": "\\c#\\es\\CURSO-CODE-ACADEMY\\LESSION-1\\Introduccion\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
