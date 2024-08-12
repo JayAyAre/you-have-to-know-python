@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\GitHub\Python-and-Csharp\c#\es\CURSO-CODE-ACADEMY\LESSION-2-VARIABLES\Trabajando-con-texto\bin\Debug\Working-With-Text.exe.config
+C:\Users\Usuario\Documents\GitHub\Python-and-Csharp\c#\es\CURSO-CODE-ACADEMY\LESSION-2-VARIABLES\Trabajando-con-texto\bin\Debug\Working-With-Text.exe
+C:\Users\Usuario\Documents\GitHub\Python-and-Csharp\c#\es\CURSO-CODE-ACADEMY\LESSION-2-VARIABLES\Trabajando-con-texto\bin\Debug\Working-With-Text.pdb
+C:\Users\Usuario\Documents\GitHub\Python-and-Csharp\c#\es\CURSO-CODE-ACADEMY\LESSION-2-VARIABLES\Trabajando-con-texto\obj\Debug\Working-With-Text.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Python-and-Csharp\c#\es\CURSO-CODE-ACADEMY\LESSION-2-VARIABLES\Trabajando-con-texto\obj\Debug\Working-With-Text.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\Python-and-Csharp\c#\es\CURSO-CODE-ACADEMY\LESSION-2-VARIABLES\Trabajando-con-texto\obj\Debug\Working-With-Text.exe
+C:\Users\Usuario\Documents\GitHub\Python-and-Csharp\c#\es\CURSO-CODE-ACADEMY\LESSION-2-VARIABLES\Trabajando-con-texto\obj\Debug\Working-With-Text.pdb

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Introduccion
 {
-    internal class Program
+    internal class Introduccion
     {
         static void Main(string[] args)
         {
@@ -15,7 +15,7 @@ namespace Introduccion
             // Este es un comentario de linea, unicamente ocupa una linea de instruccion
 
             /*
-             
+
             Y este de aqui
             Es un comentario de bloque
             y se puede escribir en varias lineas
@@ -23,7 +23,7 @@ namespace Introduccion
              */
 
             /*
-             
+
             C# es un lenguaje de programacion de tipado seguro, es decir, se deben declarar las variables. 
             Es decir, el compilador debe saber que tipo de variable es para poder funcionar y leerlas.
             Asignar un tipo esencialmente le dice a una computadora qué operaciones se pueden y no se pueden realizar en un fragmento de datos.
@@ -37,7 +37,7 @@ namespace Introduccion
             Escritorio, apps para movil, videojuegos, apps web, realidad aumentada y realidad virtual, etc.
 
             Por ultimo C# se diferencia por su alta velocidad con respecto a otros lenguajes de programacion
-             
+
             */
 
             // A continuacion, veremos como se escribe por consola
@@ -49,7 +49,7 @@ namespace Introduccion
             Console.WriteLine("Hello " + name);
             Console.WriteLine($"How are you, {name}?");
 
-
+            Console.ReadLine();
             // Ademas, los comentarios sirven para 3 cosas priuncipales
 
             // 1. Para proporcionar contexto sobre una variable o el porque una instruccion esta escrita asi

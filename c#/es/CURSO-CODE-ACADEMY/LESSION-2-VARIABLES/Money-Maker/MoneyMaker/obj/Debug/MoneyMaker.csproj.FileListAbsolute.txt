@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\GitHub\Python-and-Csharp\c#\es\CURSO-CODE-ACADEMY\LESSION-2-VARIABLES\Money-Maker\MoneyMaker\bin\Debug\MoneyMaker.exe.config
+C:\Users\Usuario\Documents\GitHub\Python-and-Csharp\c#\es\CURSO-CODE-ACADEMY\LESSION-2-VARIABLES\Money-Maker\MoneyMaker\bin\Debug\MoneyMaker.exe
+C:\Users\Usuario\Documents\GitHub\Python-and-Csharp\c#\es\CURSO-CODE-ACADEMY\LESSION-2-VARIABLES\Money-Maker\MoneyMaker\bin\Debug\MoneyMaker.pdb
+C:\Users\Usuario\Documents\GitHub\Python-and-Csharp\c#\es\CURSO-CODE-ACADEMY\LESSION-2-VARIABLES\Money-Maker\MoneyMaker\obj\Debug\MoneyMaker.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Python-and-Csharp\c#\es\CURSO-CODE-ACADEMY\LESSION-2-VARIABLES\Money-Maker\MoneyMaker\obj\Debug\MoneyMaker.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\Python-and-Csharp\c#\es\CURSO-CODE-ACADEMY\LESSION-2-VARIABLES\Money-Maker\MoneyMaker\obj\Debug\MoneyMaker.exe
+C:\Users\Usuario\Documents\GitHub\Python-and-Csharp\c#\es\CURSO-CODE-ACADEMY\LESSION-2-VARIABLES\Money-Maker\MoneyMaker\obj\Debug\MoneyMaker.pdb
