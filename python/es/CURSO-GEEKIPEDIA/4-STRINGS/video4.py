@@ -20,6 +20,7 @@ de las cuales se encuentran:
 # ASIGNACIÓN
 # Consiste en asignar una cadena de caracteres a otra
 
+print("Ejemplo de asignacion")
 mensaje = "Hola"
 mensaje += " "
 mensaje += "jordi"
@@ -31,6 +32,7 @@ print(mensaje)
 # CONCATENACION
 # Consiste en unir dos o mas cadenas para una de mayor tamaño
 
+print("Ejemplo de concatenacion")
 mensaje = "Hola"
 espacio = " "
 nombre = "jordi"
@@ -43,6 +45,8 @@ numero2 = 4
 resultado = str(numero1 + numero2)
 print("Resultado " + resultado)
 
+
+print("Ejemplo de busqueda")
 # BUSQUEDA
 # Consiste en localizar dentro de una cadena, una cadena mas pequeña o subcadena
 # usaremos el metodo .find()
@@ -55,6 +59,7 @@ print(subcadena)
 # EXTRACCION
 # Consiste en extraer una subcadena de caracteres de una cadena
 
+print("Ejemplo de extraccion")
 mensaje = "Hola ernesto" # Hay que tener en cuenta, que se hace desde el indice incluido
 subcadena = mensaje[5:10] # hasta el indice marcado -1
 print(subcadena)
@@ -74,6 +79,7 @@ el cual es la "s"
 # COMPARACION
 # se utiliza para comparar si dos cadenas de caracteres son iguales
 
+print("Ejemplo de comparacion")
 mensaje1 = "hola"
 mensaje2 = "hola"
 mensaje3 = "hol"
