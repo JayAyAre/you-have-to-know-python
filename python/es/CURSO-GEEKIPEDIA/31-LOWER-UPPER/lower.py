@@ -13,3 +13,4 @@ nombre = "CARLITOS Gonzales"
 print(nombre)
 print("Esta en minusculas?: ", nombre.islower())
 print("Convertido a minusculas: ", nombre.lower())
+print(nombre)

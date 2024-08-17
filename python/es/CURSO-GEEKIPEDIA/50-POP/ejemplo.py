@@ -1,19 +1,24 @@
-print("Lista origianl")
-letters = ["b", "d", "f", "g"]
-print(f"Lista: {letters}")
+vocales = ["a", "e", "i", "o", "u"]
+print(f"Lista: {vocales}")
+print(f"Elemento eliminado: {vocales.pop()}")
+print(f"Lista: {vocales}")
 
-print("\nInsertando 'a' en posición 0")
-letters.insert(0, "a")
-print(f"Lista: {letters}")
+vocales = ["a", "e", "i", "o", "u"]
+print(f"\nLista: {vocales}")
+print(f"Elemento eliminado en la posición 2: {vocales.pop(2)}")
+print(f"Lista: {vocales}")
 
-print("\nInsertando 'c' en posición 2")
-letters.insert(2, "c")
-print(f"Lista: {letters}")
+vocales = ["a", "e", "i", "o", "u"]
+print(f"\nLista: {vocales}")
+print(f"Elemento eliminado en la posición 0: {vocales.pop(0)}")
+print(f"Lista: {vocales}")
 
-print("\nInsertando 'e' en posición 4")
-letters.insert(4, "e")
-print(f"Lista: {letters}")
+vocales = ["a", "e", "i", "o", "u"]
+print(f"\nLista: {vocales}")
+print(f"Elemento eliminado en la posición -2: {vocales.pop(-2)}")
+print(f"Lista: {vocales}")
 
-print("\nInsertando 'z' en posición 100")
-letters.insert(100, "z")
-print(f"Lista: {letters}")
+vocales = ["a", "e", "i", "o", "u"]
+print(f"\nLista: {vocales}")
+print(f"Elemento eliminado en la posición 5: {vocales.pop(5)}")
+print(f"Lista: {vocales}")
