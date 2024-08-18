@@ -1,0 +1,7 @@
+{
+    "errorLens.gutterIconSet": "default",
+    "editor.glyphMargin": true,
+    "diffEditor.renderMarginRevertIcon": true,
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true,
+}
