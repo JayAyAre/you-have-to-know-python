@@ -22,8 +22,3 @@
     Remember: Data and operators when connected together form expressions.
     The simplest expression is a literal itself.
 """
-
-print(2 ** 3)
-print(2 ** 3.)
-print(2. ** 3)
-print(2. ** 3.)
