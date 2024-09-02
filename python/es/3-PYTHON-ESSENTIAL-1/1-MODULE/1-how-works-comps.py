@@ -5,7 +5,7 @@ How does a computer program work?
     A program makes a computer usable, without a program, a computer is nothing more than a object.
         like a piano without his player.
 
-    Computer are able to perform veri complex tasks but this isn't innate. They only can very simple
+    Computer are able to perform very complex tasks but this isn't innate. They only can very simple
     operations. A computer can't understant by itself what is the meaning of a mathematical equation.
 
     A computer can compute the average speed during a long journey, but it is necesary to instruct
@@ -128,8 +128,7 @@ What makes Python special?
     - it's easy to learn
     - it's easy to teach
     - it's easy to use for writing new software
-    - it's easy to under
-    stand
+    - it's easy to understand
     - it's easy to obtain, install and deploy
 
     Of course, Python has its drawbacks, too:
@@ -161,14 +160,14 @@ What makes Python special?
         is rarely seen:
             - Low level programming:  if you want to implement an extremely effective driver or graphical engine,
                 you wouldn't use Python;
-            - Application for mobile devices: although this territory is still waiting to be conquered by Python, 
+            - Application for mobile devices: although this territory is still waiting to be conquered by Python,
                 it will most likely happen someday.
 
     Note: We recommend use python 3, because this is the current python version.
 
 
     CPython
-        Is one of  a possible number of solutions to the most painful of python's traits:
+        Is one of a possible number of solutions to the most painful of python's traits:
         the lack of efficiency. Large and complex mathematical computations are fast and easy to encoded
         in python but the resulting code execution may be extremely time-consuming.
 

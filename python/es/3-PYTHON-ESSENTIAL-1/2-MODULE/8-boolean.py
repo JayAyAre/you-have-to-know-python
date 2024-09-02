@@ -12,13 +12,13 @@
 
             Yes, this is true;
             No, this is false.
-            
+
         Python, then, is a binary reptile.
 
         These two Boolean values have strict denotations in Python:
             True
             False
-        
+
         You cannot change anything - you have to take these symbols as they are,
         including case-sensitivity.
 

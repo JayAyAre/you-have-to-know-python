@@ -63,7 +63,7 @@ print(3e3) # float
             the exponent (the value after the E) has to be an integer;
             the base (the value in front of the E) may be an integer.
 """
-
+print(20.12E8)
 print(6.62607015e-34)
 print(6.62607015E-34)
 print(0.0000000000000000000001) # Will print 1e-22
