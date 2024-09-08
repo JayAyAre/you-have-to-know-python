@@ -1,13 +1,13 @@
-{
-    "errorLens.gutterIconSet": "default",
-    "editor.glyphMargin": true,
-    "diffEditor.renderMarginRevertIcon": true,
-    "editor.defaultFormatter": "ms-python.black-formatter",
-    "editor.formatOnSave": true,
-    "[python]": {
-        "editor.defaultFormatter": "ms-python.autopep8"
-    },
-    "[jsonc]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-}
+// {
+//     "errorLens.gutterIconSet": "default",
+//     "editor.glyphMargin": true,
+//     "diffEditor.renderMarginRevertIcon": true,
+//     "editor.defaultFormatter": "ms-python.black-formatter",
+//     "editor.formatOnSave": true,
+//     "[python]": {
+//         "editor.defaultFormatter": "ms-python.autopep8"
+//     },
+//     "[jsonc]": {
+//         "editor.defaultFormatter": "esbenp.prettier-vscode"
+//     },
+// }
