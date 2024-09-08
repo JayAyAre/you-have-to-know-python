@@ -19,7 +19,6 @@ except ZeroDivisionError as e:
     print("Error: No se puede dividir por cero")
 except Exception as e:
     print("Error: Algo salio mal", e)
-
 else:
     print("Todo bien")
 finally:
