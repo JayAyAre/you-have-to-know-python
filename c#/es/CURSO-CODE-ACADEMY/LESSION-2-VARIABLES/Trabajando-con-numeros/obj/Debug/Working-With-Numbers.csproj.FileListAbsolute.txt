@@ -1,7 +1,0 @@
-C:\Users\Usuario\Documents\GitHub\Python-and-Csharp\c#\CURSO-CODE-ACADEMY\LESSON-2-VARIABLES\Working-With-Numbers\bin\Debug\Working-With-Numbers.exe.config
-C:\Users\Usuario\Documents\GitHub\Python-and-Csharp\c#\CURSO-CODE-ACADEMY\LESSON-2-VARIABLES\Working-With-Numbers\bin\Debug\Working-With-Numbers.exe
-C:\Users\Usuario\Documents\GitHub\Python-and-Csharp\c#\CURSO-CODE-ACADEMY\LESSON-2-VARIABLES\Working-With-Numbers\bin\Debug\Working-With-Numbers.pdb
-C:\Users\Usuario\Documents\GitHub\Python-and-Csharp\c#\CURSO-CODE-ACADEMY\LESSON-2-VARIABLES\Working-With-Numbers\obj\Debug\Working-With-Numbers.csproj.AssemblyReference.cache
-C:\Users\Usuario\Documents\GitHub\Python-and-Csharp\c#\CURSO-CODE-ACADEMY\LESSON-2-VARIABLES\Working-With-Numbers\obj\Debug\Working-With-Numbers.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Documents\GitHub\Python-and-Csharp\c#\CURSO-CODE-ACADEMY\LESSON-2-VARIABLES\Working-With-Numbers\obj\Debug\Working-With-Numbers.exe
-C:\Users\Usuario\Documents\GitHub\Python-and-Csharp\c#\CURSO-CODE-ACADEMY\LESSON-2-VARIABLES\Working-With-Numbers\obj\Debug\Working-With-Numbers.pdb

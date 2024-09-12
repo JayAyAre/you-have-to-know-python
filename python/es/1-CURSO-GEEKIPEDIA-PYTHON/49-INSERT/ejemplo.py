@@ -17,3 +17,7 @@ print(f"Lista: {letters}")
 print("\nInsertando 'z' en posición 100")
 letters.insert(100, "z")
 print(f"Lista: {letters}")
+
+print("\nInsertando 'z' en posición 100")
+letters.insert(len(letters), "k")
+print(f"Lista: {letters}")
