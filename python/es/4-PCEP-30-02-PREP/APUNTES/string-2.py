@@ -66,8 +66,8 @@ print("mola" in "Python mola")  # True
 
 # Ejemplo 4
 
-print(chr(8364))  # €
-print(ord("€"))  # 110
+print(chr(8364))  # € es lo mismo que poner U+20AC o en valor decimal 8364
+print(ord("€"))  # devuelve el valor unicode del caracter
 
 # Ejemplo 5
 

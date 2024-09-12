@@ -4,8 +4,8 @@
 
             - str.upper()
             - str.lower()
-            - str.strip()
-            - str.split(), str.lstrip(), str.rstrip()
+            - str.strip(), str.lstrip(), str.rstrip()
+            - str.split()
             - str.join()
             - str.replace()
             - str.find()
